@@ -1,6 +1,7 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Date:
+# Date:14/10/25
+# name: Hema Dharshini N
 # Register no.212223220034
 
 ### Aim: To write a single Python function that can automatically detect the file type (.csv or .json) and read its contents into a list of dictionaries.
